@@ -1,27 +1,50 @@
 [
 	{
-		"exerciseName": "Arnold Press",
-		"bodyPart": "Shoulders",
-		"strength": 1,
-		"description": "In one fluid motion (sitting or standing), raise the dumbbells and rotate the palms of your hand to face forward — keep lifting until your arms are extended straight above you. Pause and then reverse the move and repeat.",
-		"exerciseExample": "https://2.bp.blogspot.com/--jSWCeKw-Ng/VtfT73LxeMI/AAAAAAAACcI/Cun38s_PhZA/s400/Press%2BArnold.jpg",
-		"muscleBody": "https://1.bp.blogspot.com/_I89TsU7ThAs/SI9J4D8g8tI/AAAAAAAAAj8/AD6wi0cvhrI/s320/dumbell-press.jpg"
+		"exerciseName": "Straight Arm Pulldown",
+		"bodyPart": "Back",
+		"strength": 0,
+		"description": "Use the straight bar attachment on a high pulley. Grasp the two ends of the bar with your palms facing downward and your arms straight out in front of you. Pull your hands down towards your hips, while keeping your arms straight, then raise them back up to the starting position.",
+		"exerciseExample": "https://allfitnessweb.com/wp-content/uploads/2018/02/straight-arm-lat-pulldown.jpg",
+		"muscleBody": "https://wger.de/media/exercise-images/161/Dead-lifts-1.png"
 	},
 	{
-		"exerciseName": "Barbel Bench Press",
-		"bodyPart": "Chest",
-		"strength": 1,
-		"description": "Lay down on a bench, the bar should be directly above your eyes, the knees are somewhat angled and the feet are firmly on the floor. Concentrate, breath deeply and grab the bar more than shoulder wide. Bring it slowly down till it briefly touches your chest at the height of your nipples. Push the bar up.",
-		"exerciseExample": "http://staticcontent.fitpro.com/images/articles/4019_image1.png",
-		"muscleBody": "https://www.oldschoollabs.com/wp-content/uploads/2019/06/1-2.jpg"
+		"exerciseName": "Straight Bar Pulldowns",
+		"bodyPart": "Triceps",
+		"strength": 0,
+		"description": "Set the cable machine up with the bar at head height. Grab the bar and stand upright with your back straight and your elbows tucked in to your sides. Stand with your feet hip-width apart, or place one in front of the other if it helps you balance. Pull the cable down until the bar touches your thighs and pause to squeeze your triceps at the bottom of the move. Then slowly raise the bar back to the starting position.",
+		"exerciseExample": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8qfjwMMKrePkhp8PudvuMw30-ntnPHeZJw9OsIS_WOdb8faTR&usqp=CAU",
+		"muscleBody": "https://barbend.com/wp-content/uploads/2019/04/Tricep-Muscle-Anatomy-1024x661.jpg"
 	},
 	{
-		"exerciseName": "Barbell Curls",
-		"bodyPart": "Arms",
+		"exerciseName": "Treadmill (45-minute run)",
+		"bodyPart": "Full Body",
+		"strength": 0,
+		"description": "Get on the treadmill, but don't stand right on the belt. Grab the handrails and place your feet on the sides of the belt. Attach the safety kill switch to your clothing if the machine has one and hit the 'Start' button. The belt will start moving at a slow pace. Place your feet on the belt one at a time, start running and then take your hands off the handrails.",
+		"exerciseExample": "https://www.popsci.com/resizer/vLlPbi5H9eDO--kWj2291U_dcqA=/760x570/filters:focal(500x375:501x376)/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/DCE3VN7WDRD4LHP4VPE37CK5EE.jpg",
+		"muscleBody": "https://www.clubpiscine.ca/DATA/TEXTEDOC/Human-body-muscles-base-tapis-treadmill.jpg"
+	},
+	{
+		"exerciseName": "Treadmill (45-minute walk)",
+		"bodyPart": "Full Body",
+		"strength": 0,
+		"description": "Get on the treadmill, but don't stand right on the belt. Grab the handrails and place your feet on the sides of the belt. Attach the safety kill switch to your clothing if the machine has one and hit the 'Start' button. The belt will start moving at a slow pace. Place your feet on the belt one at a time, start walking and then take your hands off the handrails.",
+		"exerciseExample": "https://paintingvalley.com/sketches/treadmill-sketch-3.jpg",
+		"muscleBody": "https://www.clubpiscine.ca/DATA/TEXTEDOC/Human-body-muscles-base-tapis-treadmill.jpg"
+	},
+	{
+		"exerciseName": "V-Grip Lat Pulldown",
+		"bodyPart": "Back",
+		"strength": 0,
+		"description": "1) Attach a v-bar to the top pulley of a lat pulldown machine and hold onto the bar with a neutral grip, palms facing eachother. \n2) Sit down on the machine making sure to adjust the knee pad so that your legs are firmly locked in place.\n3) Lean your torso back slightly, finding the best angle for yourself that allows you to maximally engage your lats during the exercise. For most people this will be around 30 degrees.\n4) Next, puff out your chest and retract your shoulder blades in order to further increase lat activation.\n5) From this position, pull the bar down to your upper chest while keeping your elbows tucked in. Always focus on driving the weight downward using your elbows rather than your hands, and keep your attention on squeezing the lats at all times.\n6) Pause briefly in the fully contracted position, raise the weight back up under control, and repeat for anywhere from 5-12 reps.",
+		"exerciseExample": "http://www.workoutroutinewarehouse.com/images/v-bar-pull-down-2.png",
+		"muscleBody": "http://www.workoutroutinewarehouse.com/images/v-bar-pull-down-1.pngs"
+	},
+	{
+		"exerciseName": "Wide Grip Lat Pulldown",
+		"bodyPart": "Back",
 		"strength": 1,
-		"description": "Grab a barbell with a shoulder width underhand (palms up) grip, lowering your arms down to your thighs fully and bending slightly at your elbows as this will be your starting position. Slowly raise the bar towards your upper chest, squeezing your muscles and isolating the biceps. Hold this position for a count and then return back to the starting position.",
-		"exerciseExample": "https://i.pinimg.com/originals/47/68/72/4768728eec6a07ba9ef0acde2dcc71c5.jpg",
-		"muscleBody": "https://squatwolf.com/wp-content/uploads/2018/09/Reverse-Curls-800x800.png"
+		"description": "Choose your weight and sit on the lat pull-down machine, adjusting it so that your thighs fit under the supports. Grasp the bar with a pronated (overhand) grip, with your hands more than shoulder-width apart.",
+		"exerciseExample": "https://allfitnessweb.com/wp-content/uploads/2018/02/wide-grip-lat-pulldown.jpg",
+		"muscleBody": "https://www.fitfatherproject.com/wp-content/uploads/2017/07/hombros1234.png"
 	}
-	
 ]
