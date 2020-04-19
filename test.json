@@ -1,0 +1,27 @@
+[
+	{
+		"exerciseName": "Arnold Press",
+		"bodyPart": "Shoulders",
+		"strength": 1,
+		"description": "In one fluid motion (sitting or standing), raise the dumbbells and rotate the palms of your hand to face forward — keep lifting until your arms are extended straight above you. Pause and then reverse the move and repeat.",
+		"exerciseExample": "https://2.bp.blogspot.com/--jSWCeKw-Ng/VtfT73LxeMI/AAAAAAAACcI/Cun38s_PhZA/s400/Press%2BArnold.jpg",
+		"muscleBody": "https://1.bp.blogspot.com/_I89TsU7ThAs/SI9J4D8g8tI/AAAAAAAAAj8/AD6wi0cvhrI/s320/dumbell-press.jpg"
+	},
+	{
+		"exerciseName": "Barbel Bench Press",
+		"bodyPart": "Chest",
+		"strength": 1,
+		"description": "Lay down on a bench, the bar should be directly above your eyes, the knees are somewhat angled and the feet are firmly on the floor. Concentrate, breath deeply and grab the bar more than shoulder wide. Bring it slowly down till it briefly touches your chest at the height of your nipples. Push the bar up.",
+		"exerciseExample": "http://staticcontent.fitpro.com/images/articles/4019_image1.png",
+		"muscleBody": "https://www.oldschoollabs.com/wp-content/uploads/2019/06/1-2.jpg"
+	},
+	{
+		"exerciseName": "Barbell Curls",
+		"bodyPart": "Arms",
+		"strength": 1,
+		"description": "Grab a barbell with a shoulder width underhand (palms up) grip, lowering your arms down to your thighs fully and bending slightly at your elbows as this will be your starting position. Slowly raise the bar towards your upper chest, squeezing your muscles and isolating the biceps. Hold this position for a count and then return back to the starting position.",
+		"exerciseExample": "https://i.pinimg.com/originals/47/68/72/4768728eec6a07ba9ef0acde2dcc71c5.jpg",
+		"muscleBody": "https://squatwolf.com/wp-content/uploads/2018/09/Reverse-Curls-800x800.png"
+	},
+	
+]
