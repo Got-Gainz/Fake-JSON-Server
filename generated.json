@@ -1,4 +1,38 @@
 [
+    {
+      "workoutName":"Chest",
+      "description": "This is a chest focused workout to build those pecs. The upper, lower, and middle chest will be targeted through the duration of this workout. An important mind muscle connection is need in order for you to feel the pump. Rest times between each set should be around 60-o0 minutes",
+      "exerciseInfo":[
+        {
+            "exerciseName": "Barbell Bench Press",
+            "reps" : 6,
+            "sets" : 4
+        },
+        {
+            "exerciseName": "Incline Dumbell Press",
+            "reps" : 8,
+            "sets" : 4
+        },
+        },
+        {
+          "exerciseName":"Dips",
+          "reps": 10,
+          "sets": 3
+        },
+        {
+          "exerciseName":"Cable Cross-over",
+          "reps": 10,
+          "sets": 5
+        },
+        {
+          
+          "exerciseName":"Push-ups",
+          "reps": 20,
+          "sets": 4
+        }
+        
+      ]
+    },
     
     {
       "workoutName":"Beginner Strength",
@@ -77,3 +111,4 @@
       ]
     }
 ]
+
