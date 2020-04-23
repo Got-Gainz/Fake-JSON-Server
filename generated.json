@@ -1,113 +1,105 @@
 [
-    {
-      "workoutName":"Chest",
-      "description": "This is a chest focused workout to build those pecs. The upper, lower, and middle chest will be targeted through the duration of this workout. An important mind muscle connection is need in order for you to feel the pump. Rest times between each set should be around 60-o0 minutes",
-      "exerciseInfo":[
-        {
-            "exerciseName": "Barbell Bench Press",
-            "reps" : 6,
-            "sets" : 4
-        },
-        {
-            "exerciseName": "Incline Dumbell Press",
-            "reps" : 8,
-            "sets" : 4
-        },
-        {
-          "exerciseName":"Dips",
-          "reps": 10,
-          "sets": 3
-        },
-        {
-          "exerciseName":"Cable Cross-over",
-          "reps": 10,
-          "sets": 5
-        },
-        {
-          
-          "exerciseName":"Push-ups",
-          "reps": 20,
-          "sets": 4
-        }
-        
-      ]
-    },
-    
-    {
-      "workoutName":"Beginner Strength",
-      "description": "This workout is meant for beginners wanting to build strength. It focuses on heavy compount movements with low rep numbers and low sets. Because of the intensity of this workout, recommended rest times are from 60 to 90 seconds between each set.",
-      "exerciseInfo":[
-        {
-          "exerciseName":"Deadlifts",
-          "reps": 5,
-          "sets": 5
-        },
-        {
-          "exerciseName":"Squats",
-          "reps": 5,
-          "sets": 5
-        },
-        {
-          "exerciseName":"Standing Lunges",
-          "reps": 3,
-          "sets": 10
-        },
-        {
-          "exerciseName":"Barbell Bench Press",
-          "reps": 5,
-          "sets": 5
-        },
-        {
-          "exerciseName":"Bent Over Rows",
-          "reps": 5,
-          "sets": 5
-        },
-        {
-          
-          "exerciseName":"Seated Dumbell OverHead Press",
-          "reps": 8,
-          "sets": 4
-        }
-        
-      ]
-    },
-    {
-      "workoutName":"Advanced Strength",
-      "description": "This workout is meant for advanced users wanting to build strength. This workout focuses on heavy compound movements. The sets and rep ranges assigned to each exercise is to be lifted at 85% to 95% of your one rep max of that exercise. These are the working sets of each exercise. It is up to you to decide how much warm up sets to do before you hit your working sets. Rest times between each set should be 1-2 minutes",
-      "exerciseInfo":[
-        {
-          "exerciseName":"Deadlifts",
-          "reps": 5,
-          "sets": 4
-        },
-        {
-          "exerciseName":"Squats",
-          "reps": 5,
-          "sets": 4
-        },
-        {
-          "exerciseName":"Standing Reps",
-          "reps": 10,
-          "sets": 3
-        },
-        {
-          "exerciseName":"Incline Bench Press",
-          "reps": 4,
-          "sets": 4
-        },
-        {
-          "exerciseName":"Bent Over Rows",
-          "reps": 5,
-          "sets": 4
-        },
-        {
-          
-          "exerciseName":"Dumbell OverHead Press",
-          "reps": 10,
-          "sets": 4
-        }
-        
-      ]
-    }
+  {
+    "workoutName": "Chest",
+    "description": "This is a chest focused workout to build those pecs. The upper, lower, and middle chest will be targeted through the duration of this workout. An important mind muscle connection is need in order for you to feel the pump. Rest times between each set should be around 60-o0 minutes",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Barbell Bench Press",
+        "reps": 6,
+        "sets": 4
+      },
+      {
+        "exerciseName": "Incline Dumbell Press",
+        "reps": 8,
+        "sets": 4
+      },
+      {
+        "exerciseName": "Dips",
+        "reps": 10,
+        "sets": 3
+      },
+      {
+        "exerciseName": "Cable Cross-over",
+        "reps": 10,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Push-ups",
+        "reps": 20,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "workoutName": "Beginner Strength",
+    "description": "This workout is meant for beginners wanting to build strength. It focuses on heavy compount movements with low rep numbers and low sets. Because of the intensity of this workout, recommended rest times are from 60 to 90 seconds between each set.",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Deadlifts",
+        "reps": 5,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Squats",
+        "reps": 5,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Standing Lunges",
+        "reps": 3,
+        "sets": 10
+      },
+      {
+        "exerciseName": "Barbell Bench Press",
+        "reps": 5,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Bent Over Rows",
+        "reps": 5,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Seated Dumbell OverHead Press",
+        "reps": 8,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "workoutName": "Advanced Strength",
+    "description": "This workout is meant for advanced users wanting to build strength. This workout focuses on heavy compound movements. The sets and rep ranges assigned to each exercise is to be lifted at 85% to 95% of your one rep max of that exercise. These are the working sets of each exercise. It is up to you to decide how much warm up sets to do before you hit your working sets. Rest times between each set should be 1-2 minutes",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Deadlifts",
+        "reps": 5,
+        "sets": 4
+      },
+      {
+        "exerciseName": "Squats",
+        "reps": 5,
+        "sets": 4
+      },
+      {
+        "exerciseName": "Standing Reps",
+        "reps": 10,
+        "sets": 3
+      },
+      {
+        "exerciseName": "Incline Bench Press",
+        "reps": 4,
+        "sets": 4
+      },
+      {
+        "exerciseName": "Bent Over Rows",
+        "reps": 5,
+        "sets": 4
+      },
+      {
+        "exerciseName": "Dumbell OverHead Press",
+        "reps": 10,
+        "sets": 4
+      }
+    ]
+  }
 ]
-
