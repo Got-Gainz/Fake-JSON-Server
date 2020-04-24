@@ -32,7 +32,7 @@
   },
   {
     "workoutName": "Back",
-    "description": "This is a back focused workout to build your back like a shield. When performing each exercise, focus on the mind muscle connection. To help that, focus on the negative portion of the exercise. That is when you are returning to the starting positon after each rep. Do this for all exercises except deadlifts. Note that the deadlifts are include, Although this exercise is considered a leg exercises, one of the other areas of muscles worked is the lower back. The lower back is the abs of the posterior side of the human body.",
+    "description": "This is a back focused workout to build your back like a shield. When performing each exercise, focus on the mind muscle connection. To help that, focus on the negative portion of the exercise. That is when you are returning to the starting position after each rep. Do this for all exercises except deadlifts. Note that the deadlifts are include, Although this exercise is considered a leg exercises, one of the other areas of muscles worked is the lower back. The lower back is the abs of the posterior side of the human body.",
     "exerciseInfo": [
       {
         "exerciseName": "Deadlifts",
@@ -68,7 +68,7 @@
   },
   {
     "workoutName": "Legs",
-    "description": "You cannot have a strong building without a strong foundation. Keeping that in mind, here is a workout to build the base of the body, legs. This leg workout is intense. For the majority of exercises in this workout, it is important to keep your core tight and chest up to So it is advisible to take 2 to 3 minutes between each set of each exercise. ",
+    "description": "You cannot have a strong building without a strong foundation. Keeping that in mind, here is a workout to build the base of the body, legs. This leg workout is intense. For the majority of exercises in this workout, it is important to keep your core tight and chest up to So it is advisable to take 2 to 3 minutes between each set of each exercise. ",
     "exerciseInfo": [
       {
         "exerciseName": "Squats",
@@ -104,7 +104,7 @@
   },
   {
     "workoutName": "Shoulders",
-    "description": "Its time to build those 3-D deltiods. This workout will blast your shoulders to the point where you cannot even lift your arms up. The main thing to focus on for this shoulder workout is picking a managable weight. This is because it is very easy to injure your shoulders when you choose the incorrect weight. To remedy this, pick a weight in which you feel like you can do 1 or 2 more reps after you have completed the amount of reps you are supposed to complete. That way, you are still pushing your body, but you are able to reduce the amount of strain on your shoulder joints.",
+    "description": "Its time to build those 3-D deltoids. This workout will blast your shoulders to the point where you cannot even lift your arms up. The main thing to focus on for this shoulder workout is picking a manageable weight. This is because it is very easy to injure your shoulders when you choose the incorrect weight. To remedy this, pick a weight in which you feel like you can do 1 or 2 more reps after you have completed the amount of reps you are supposed to complete. That way, you are still pushing your body, but you are able to reduce the amount of strain on your shoulder joints.",
     "exerciseInfo": [
       {
         "exerciseName": "Barbell Overhead Press",
@@ -148,7 +148,7 @@
         "sets": 3
       },
       {
-        "exerciseName": "Dumbell Curls",
+        "exerciseName": "Dumbbell Curls",
         "reps": 10,
         "sets": 3
       },
@@ -170,290 +170,394 @@
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Push) Day 1",
-    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. These exercises are meant for the first day of the workout split. It will primarily focus on push exercises that help with strength. Pull covers the back and bicep muscle areas",
+    "workoutName": "Push/Pull/Legs (Push) Day 1 - Advanced",
+    "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the first day of the workout split. It will primarily focus on push exercises that help with strength. Pull covers the back and bicep muscle areas",
     "exerciseInfo": [
       {
         "exerciseName": "Deadlifts",
-        "reps": 5,
-        "sets": 5
+        "reps": 8,
+        "sets": 6
       },
       {
         "exerciseName": "Bent-Over Row",
         "reps": 12,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Cable Face Pulls",
         "reps": 12,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Single Arm Dumbbell Rows",
         "reps": 10,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Pull-Ups",
         "reps": 8,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Barbell Curls",
         "reps": 10,
-        "sets": 3
+        "sets": 5
       }
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Push) Day 2",
-    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. These exercises are meant for the second day of the workout split. It will primarily focus on pull exercises that help with strength. Pull covers the checst, shoulder, and tricep muscle areas. A majority of the exercises will be heavy compount movements. Rest times between sets should be from 60-90 seconds",
+    "workoutName": "Push/Pull/Legs (Push) Day 2 - Advanced",
+    "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the second day of the workout split. It will primarily focus on pull exercises that help with strength. Pull covers the chest, shoulder, and triceps muscle areas. A majority of the exercises will be heavy compound movements. Rest times between sets should be from 60-90 seconds",
     "exerciseInfo": [
       {
         "exerciseName": "Barbell Bench Press",
-        "reps": 8,
-        "sets": 5
+        "reps": 10,
+        "sets": 6
       },
       {
         "exerciseName": "Incline Dumbbell Rows",
         "reps": 12,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Standing Overhead Press",
-        "reps": 8,
-        "sets": 4
+        "reps": 10,
+        "sets": 5
       },
       {
         "exerciseName": "Cable Cross Overs",
         "reps": 10,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Lateral Raises",
         "reps": 12,
-        "sets": 3
+        "sets": 5
       },
       {
-        "exerciseName": "Cable pulldowns",
+        "exerciseName": "Cable pull-downs",
         "reps": 10,
-        "sets": 3
+        "sets": 5
       }
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Legs(QUAD FOCUS)) Day 3",
-    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. These exercises are meant for the second day of the workout split. The workout will primarily focus on exercises that target the muscles of the legs. Since legs encompass half of the human body, a lot of muscles will be worked. During the first leg day, we also place extra emphasis on exercises whose primary target is the quadsTake ample rest time between sets to allow your muscles to breathe before jumping into the next set. Rest times between each set should be 2 to 3 minutes",
+    "workoutName": "Push/Pull/Legs (Legs (QUAD FOCUS)) Day 3 - Advanced",
+    "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the second day of the workout split. The workout will primarily focus on exercises that target the muscles of the legs. Since legs encompass half of the human body, a lot of muscles will be worked. During the first leg day, we also place extra emphasis on exercises whose primary target is the quadsTake ample rest time between sets to allow your muscles to breathe before jumping into the next set. Rest times between each set should be 2 to 3 minutes",
     "exerciseInfo": [
       {
         "exerciseName": "Squats",
-        "reps": 5,
+        "reps": 8,
         "sets": 6
       },
       {
         "exerciseName": "Leg Press",
         "reps": 8,
-        "sets": 4
+        "sets": 5
       },
       {
-        "exerciseName": "Romanian DeadLifts",
-        "reps": 8,
-        "sets": 4
+        "exerciseName": "Romanian Deadlifts",
+        "reps": 10,
+        "sets": 5
       },
       {
         "exerciseName": "Standing Lunges",
         "reps": 10,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Leg Extensions",
         "reps": 12,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Seated Calf Extensions",
         "reps": 15,
-        "sets": 3
+        "sets": 5
       }
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Pull) Day 4",
-    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. On Day four, we return back to the pull portion of the exercises. The difference as that these exercies will focus on volume rather than strength. That means more reps per exercies to pump more blood to the muscles. This will help with muscle definition. Rest time between each set should be around 45 - 75 seconds",
+    "workoutName": "Push/Pull/Legs (Pull) Day 4 - Advanced",
+    "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. On Day four, we return back to the pull portion of the exercises. The difference as that these exercise will focus on volume rather than strength. That means more reps per exercise to pump more blood to the muscles. This will help with muscle definition. Rest time between each set should be around 45 - 75 seconds",
     "exerciseInfo": [
       {
         "exerciseName": "Lat Pulldown",
-        "reps": 12,
-        "sets": 4
+        "reps": 15,
+        "sets": 5
       },
       {
         "exerciseName": "Machine Cable Rows",
-        "reps": 10,
-        "sets": 4
+        "reps": 15,
+        "sets": 5
       },
       {
         "exerciseName": "Rack Pulls",
-        "reps": 10,
-        "sets": 4
+        "reps": 15,
+        "sets": 5
       },
       {
         "exerciseName": "Incline Bench Rows",
-        "reps": 10,
-        "sets": 3
+        "reps": 15,
+        "sets": 5
       },
       {
         "exerciseName": "Hammer Curls",
-        "reps": 12,
-        "sets": 3
+        "reps": 15,
+        "sets": 5
       },
       {
         "exerciseName": "Seated Concentration Curls",
-        "reps": 10,
-        "sets": 3
+        "reps": 15,
+        "sets": 5
       }
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Push) Day 5",
-    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. On day five, we return back to the push portion of the exercises. The difference as that these exercies will focus on volume rather than strength. That means more reps per exercies to pump more blood to the muscles. This will help with muscle definition. Rest time between each set should be around 45 - 75 seconds",
+    "workoutName": "Push/Pull/Legs (Push) Day 5 - Advanced",
+    "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. On day five, we return back to the push portion of the exercises. The difference as that these exercise will focus on volume rather than strength. That means more reps per exercise to pump more blood to the muscles. This will help with muscle definition. Rest time between each set should be around 45 - 75 seconds",
     "exerciseInfo": [
       {
-        "exerciseName": "Seated Dumbell Overhead Press",
-        "reps": 10,
-        "sets": 4
+        "exerciseName": "Seated Dumbbell Overhead Press",
+        "reps": 12,
+        "sets": 2
       },
       {
         "exerciseName": "Incline Bench Press",
-        "reps": 10,
-        "sets": 4
+        "reps": 12,
+        "sets": 5
       },
       {
         "exerciseName": "Decline Bench Press",
-        "reps": 10,
-        "sets": 4
+        "reps": 12,
+        "sets": 5
       },
       {
         "exerciseName": "Cable Face Pulls",
-        "reps": 10,
-        "sets": 3
+        "reps": 12,
+        "sets": 5
       },
       {
         "exerciseName": "Arnold Press",
         "reps": 12,
-        "sets": 3
+        "sets": 5
       },
       {
-        "exerciseName": "Overhead Tricep raise",
-        "reps": 10,
-        "sets": 3
+        "exerciseName": "Overhead Triceps raise",
+        "reps": 12,
+        "sets": 5
       }
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Legs(Hamstring Focus) Day 6",
-    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. These exercises are meant for the second day of the workout split. The workout will primarily focus on exercises that target the muscles of the legs. Since legs encompass half of the human body, a lot of muscles will be worked. During the first leg day, we also place extra emphasis on exercises whose primary target is the hamstrings. Take ample rest time between sets to allow your muscles to breathe before jumping into the next set. Rest times between each set should be 2 to 3 minutes",
+    "workoutName": "Push/Pull/Legs (Legs (Hamstring Focus) Day 6 - Advanced",
+    "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the second day of the workout split. The workout will primarily focus on exercises that target the muscles of the legs. Since legs encompass half of the human body, a lot of muscles will be worked. During the first leg day, we also place extra emphasis on exercises whose primary target is the hamstrings. Take ample rest time between sets to allow your muscles to breathe before jumping into the next set. Rest times between each set should be 2 to 3 minutes",
     "exerciseInfo": [
       {
         "exerciseName": "Deadlifts",
-        "reps": 5,
+        "reps": 8,
         "sets": 6
       },
       {
         "exerciseName": "Goblet Squats",
         "reps": 10,
-        "sets": 4
+        "sets": 5
       },
       {
         "exerciseName": "Machine Leg Curls",
         "reps": 10,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Good Mornings",
         "reps": 10,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Hip Thrust",
         "reps": 10,
-        "sets": 3
+        "sets": 5
       },
       {
         "exerciseName": "Standing Calf Extensions",
         "reps": 15,
-        "sets": 3
+        "sets": 5
       }
     ]
   },
   {
-    "workoutName": "Beginner Strength",
-    "description": "This workout is meant for beginners wanting to build strength. It focuses on heavy compount movements with low rep numbers and low sets. Because of the intensity of this workout, recommended rest times are from 60 to 90 seconds between each set.",
+    "workoutName": "Cardio Day 1 - Advanced",
+    "description": "Cardio workouts are one of the best programs for weight loss — and for good reason. It’s convenient and an easy way for beginners to start exercising without feeling overwhelmed or needing to purchase equipment. 1 Rep = 1 Min",
     "exerciseInfo": [
       {
-        "exerciseName": "Deadlifts",
-        "reps": 5,
+        "exerciseName": "Walking",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Jogging",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Sprints",
+        "reps": 10,
+        "sets": 2
+      },
+      {
+        "exerciseName": "Cool-down",
+        "reps": 10,
+        "sets": 1
+      }
+    ]
+  },
+  {
+    "workoutName": "Endurance Day 2 - Advanced",
+    "description": "This workout is primarily focused on endurance. These workouts will require some gym machines to help build your endurance and should be simple enough for beginners to start exercising. 1 Rep = 1 Min (if applicable)",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Running",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Jump-Rope",
+        "reps": 20,
         "sets": 5
       },
       {
-        "exerciseName": "Squats",
+        "exerciseName": "Cycling",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Rowing",
+        "reps": 30,
+        "sets": 1
+      }
+    ]
+  },
+  {
+    "workoutName": "Endurance Day 3 - Advanced",
+    "description": "This workout is primarily focused on endurance. These workouts will require some gym machines to help build your endurance and should be simple enough for beginners to start exercising. 1 Rep = 1 Min (if applicable)",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Elliptical",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "StairMaster",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Battle Ropes",
         "reps": 5,
         "sets": 5
       },
       {
         "exerciseName": "Standing Lunges",
-        "reps": 3,
-        "sets": 10
-      },
-      {
-        "exerciseName": "Barbell Bench Press",
-        "reps": 5,
+        "reps": 15,
         "sets": 5
-      },
-      {
-        "exerciseName": "Bent Over Rows",
-        "reps": 5,
-        "sets": 5
-      },
-      {
-        "exerciseName": "Seated Dumbell OverHead Press",
-        "reps": 8,
-        "sets": 4
       }
     ]
   },
   {
-    "workoutName": "Advanced Strength",
-    "description": "This workout is meant for advanced users wanting to build strength. This workout focuses on heavy compound movements. The sets and rep ranges assigned to each exercise is to be lifted at 85% to 95% of your one rep max of that exercise. These are the working sets of each exercise. It is up to you to decide how much warm up sets to do before you hit your working sets. Rest times between each set should be 1-2 minutes",
+    "workoutName": "Mat-Based Day 4 - Advanced",
+    "description": "These workouts are created for one area. So go grab a yoga mat, some equipment, and find a wide open area to get started. Unlike the others, this will be mainly set and rep based, not time.",
     "exerciseInfo": [
       {
-        "exerciseName": "Deadlifts",
-        "reps": 5,
-        "sets": 4
+        "exerciseName": "Plank Jack",
+        "reps": 12,
+        "sets": 6
       },
       {
-        "exerciseName": "Squats",
-        "reps": 5,
-        "sets": 4
+        "exerciseName": "Mini-Band Frog Jumps",
+        "reps": 12,
+        "sets": 8
       },
       {
-        "exerciseName": "Standing Reps",
+        "exerciseName": "Lateral Shuffle Taps",
+        "reps": 12,
+        "sets": 6
+      },
+      {
+        "exerciseName": "Bench Runners",
+        "reps": 12,
+        "sets": 6
+      },
+      {
+        "exerciseName": "Fast-Feet Drop",
+        "reps": 25,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Mountain Climbers Pushup",
+        "reps": 25,
+        "sets": 8
+      }
+    ]
+  },
+  {
+    "workoutName": "Cardio Day 5 - Advanced",
+    "description": "Cardio workouts are one of the best programs for weight loss — and for good reason. It’s convenient and an easy way for beginners to start exercising without feeling overwhelmed or needing to purchase equipment. 1 Rep = 1 Min",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Walking",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Jogging",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Sprints",
         "reps": 10,
-        "sets": 3
+        "sets": 2
       },
       {
-        "exerciseName": "Incline Bench Press",
-        "reps": 4,
-        "sets": 4
-      },
-      {
-        "exerciseName": "Bent Over Rows",
-        "reps": 5,
-        "sets": 4
-      },
-      {
-        "exerciseName": "Dumbell OverHead Press",
+        "exerciseName": "Cool-down",
         "reps": 10,
-        "sets": 4
+        "sets": 1
+      }
+    ]
+  },
+  {
+    "workoutName": "Mat-Based Day 6 - Advanced",
+    "description": "These workouts are created for one area. So go grab a yoga mat, some equipment, and find a wide open area to get started. Unlike the others, this will be mainly set and rep based, not time.",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Dumbbell Thrusters",
+        "reps": 12,
+        "sets": 8
+      },
+      {
+        "exerciseName": "Broad Jump",
+        "reps": 12,
+        "sets": 8
+      },
+      {
+        "exerciseName": "Sit-Ups",
+        "reps": 25,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Alternating Lunge",
+        "reps": 25,
+        "sets": 5
+      },
+      {
+        "exerciseName": "High Knees",
+        "reps": 25,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Jumping-Jacks",
+        "reps": 25,
+        "sets": 5
       }
     ]
   }
