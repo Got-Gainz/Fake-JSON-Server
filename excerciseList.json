@@ -11,7 +11,7 @@
 	  "exerciseName": "Dumbbell Curls",
 	  "bodyPart": "Arms",
 	  "strength": 1,
-	  "description": "Hold two dumbbells, the arms are stretched, the hands are on your side, the palms face inwards. Bend the arms and bring the weight with a fast movement up. At the same time, rotate your arms by 90 degrees at the very beginning of the movement. At the highest point, rotate a little the weights further outwards. Without a pause, bring them down, slowly. Don't allow your body to swing during the exercise, all work is done by the biceps, which are the only mucles that should move (pay attention to the elbows).",
+	  "description": "Hold two dumbbells, the arms are stretched, the hands are on your side, the palms face inwards. Bend the arms and bring the weight with a fast movement up. At the same time, rotate your arms by 90 degrees at the very beginning of the movement. At the highest point, rotate a little the weights further outwards. Without a pause, bring them down, slowly. Don't allow your body to swing during the exercise, all work is done by the biceps, which are the only muscles that should move (pay attention to the elbows).",
 	  "exerciseExample": "https://www.gymworkoutapp.com/wp-content/uploads/2017/05/b2.png",
 	  "muscleBody": "https://squatwolf.com/wp-content/uploads/2018/09/Reverse-Curls-800x800.png"
 	},
@@ -75,7 +75,7 @@
 	  "exerciseName": "Rack Pull",
 	  "bodyPart": "Back",
 	  "strength": 1,
-	  "description": "Deadlift to be done using a Smith machine or a free rack. Bar or barbell hould be just right under the knee cap level. Lift using the glutes and through the heels, then come back to starting postion with a control movement of 2 seconds.",
+	  "description": "Deadlifts to be done using a Smith machine or a free rack. Bar or barbell hold be just right under the knee cap level. Lift using the glutes and through the heels, then come back to starting position with a control movement of 2 seconds.",
 	  "exerciseExample": "https://wger.de/media/exercise-images/161/Dead-lifts-2.png",
 	  "muscleBody": "https://www.fitfatherproject.com/wp-content/uploads/2017/07/hombros1234.png"
 	},
@@ -107,7 +107,7 @@
 	  "exerciseName": "V-Grip Lat Pulldown",
 	  "bodyPart": "Back",
 	  "strength": 0,
-	  "description": "1) Attach a v-bar to the top pulley of a lat pulldown machine and hold onto the bar with a neutral grip, palms facing eachother. \n2) Sit down on the machine making sure to adjust the knee pad so that your legs are firmly locked in place.\n3) Lean your torso back slightly, finding the best angle for yourself that allows you to maximally engage your lats during the exercise. For most people this will be around 30 degrees.\n4) Next, puff out your chest and retract your shoulder blades in order to further increase lat activation.\n5) From this position, pull the bar down to your upper chest while keeping your elbows tucked in. Always focus on driving the weight downward using your elbows rather than your hands, and keep your attention on squeezing the lats at all times.\n6) Pause briefly in the fully contracted position, raise the weight back up under control, and repeat for anywhere from 5-12 reps.",
+	  "description": "1) Attach a v-bar to the top pulley of a lat pulldown machine and hold onto the bar with a neutral grip, palms facing each other. \n2) Sit down on the machine making sure to adjust the knee pad so that your legs are firmly locked in place.\n3) Lean your torso back slightly, finding the best angle for yourself that allows you to maximally engage your lats during the exercise. For most people this will be around 30 degrees.\n4) Next, puff out your chest and retract your shoulder blades in order to further increase lat activation.\n5) From this position, pull the bar down to your upper chest while keeping your elbows tucked in. Always focus on driving the weight downward using your elbows rather than your hands, and keep your attention on squeezing the lats at all times.\n6) Pause briefly in the fully contracted position, raise the weight back up under control, and repeat for anywhere from 5-12 reps.",
 	  "exerciseExample": "http://www.workoutroutinewarehouse.com/images/v-bar-pull-down-2.png",
 	  "muscleBody": "https://www.fitfatherproject.com/wp-content/uploads/2017/07/hombros1234.png"
 	},
@@ -139,7 +139,7 @@
 	  "exerciseName": "Dips",
 	  "bodyPart": "Chest",
 	  "strength": 0,
-	  "description": "Begin by lifting yourself up on the parallel bars. Slightly lean forward. As you lower yourself, keep your elbows flared out. Once your elbows reach parallel to the bars or you cannot go any lower, push back up to the starting postion.",
+	  "description": "Begin by lifting yourself up on the parallel bars. Slightly lean forward. As you lower yourself, keep your elbows flared out. Once your elbows reach parallel to the bars or you cannot go any lower, push back up to the starting position.",
 	  "exerciseExample": "https://www.mystrengthtraining.com/wp-content/uploads/2018/06/dips-illustration.png",
 	  "muscleBody": "https://www.mz-store.com/blog/wp-content/uploads_en/2018/10/chest.jpg"
 	},
@@ -147,7 +147,7 @@
 	  "exerciseName": "Dumbbell Bench Press",
 	  "bodyPart": "Chest",
 	  "strength": 1,
-	  "description": "The movement is very similar to benchpressing with a barbell, however, the weight is brought down to the chest at a lower point. Hold two dumbbells and lay down on a bench. Hold the weights next to the chest, at the height of your nipples and press them up till the arms are stretched. Let the weight slowly and controlled down.",
+	  "description": "The movement is very similar to bench pressing with a barbell, however, the weight is brought down to the chest at a lower point. Hold two dumbbells and lay down on a bench. Hold the weights next to the chest, at the height of your nipples and press them up till the arms are stretched. Let the weight slowly and controlled down.",
 	  "exerciseExample": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
 	  "muscleBody": "https://www.mz-store.com/blog/wp-content/uploads_en/2018/10/chest.jpg"
 	},
@@ -171,7 +171,7 @@
 	  "exerciseName": "Incline Dumbbell Chest Press",
 	  "bodyPart": "Chest",
 	  "strength": 1,
-	  "description": "Starting with the bench angled anywhere from 30 to 45 degrees slowy lower the weights to the middle pectorial area. Once you hit that area, push the dumbbells back up to eye level.",
+	  "description": "Starting with the bench angled anywhere from 30 to 45 degrees slowly lower the weights to the middle pectoral area. Once you hit that area, push the dumbbells back up to eye level.",
 	  "exerciseExample": "https://i.pinimg.com/originals/8b/9d/dd/8b9ddd69f6b526fb640781dc966dcf64.png",
 	  "muscleBody": "https://www.mz-store.com/blog/wp-content/uploads_en/2018/10/chest.jpg"
 	},
@@ -187,15 +187,15 @@
 	  "exerciseName": "Push-ups",
 	  "bodyPart": "Chest",
 	  "strength": 1,
-	  "description": "Start with your body streched, your hands are shoulder-wide appart on the ground. Push yourself off the ground till you strech your arms. The back is always straight and as well as the neck (always look to the ground). Lower yourself to the initial position and repeat.",
+	  "description": "Start with your body stretched, your hands are shoulder-wide apart on the ground. Push yourself off the ground till you stretch your arms. The back is always straight and as well as the neck (always look to the ground). Lower yourself to the initial position and repeat.",
 	  "exerciseExample": "https://allfitnessweb.com/wp-content/uploads/2018/02/wide-grip-pushups.jpg",
 	  "muscleBody": "https://www.mz-store.com/blog/wp-content/uploads_en/2018/10/chest.jpg"
 	},
 	{
-	  "exerciseName": "Stairmaster",
+	  "exerciseName": "Stair Master",
 	  "bodyPart": "Full Body",
 	  "strength": 0,
-	  "description": "After mounting yourself on a stairmaster machine, make sure to use the handles on the side to rest your arms on and keep balance while performing the workout. Press the big green button or select your desired workout and start stepping. It will start out very slow, but you can use the up and down buttons mentioned before to set your desired intensity.",
+	  "description": "After mounting yourself on a Stair Master machine, make sure to use the handles on the side to rest your arms on and keep balance while performing the workout. Press the big green button or select your desired workout and start stepping. It will start out very slow, but you can use the up and down buttons mentioned before to set your desired intensity.",
 	  "exerciseExample": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTwV7gSP9nEVO0hdUCato7c6hAZC8KXk2Ir9FlUmbQIS5arGp0&s",
 	  "muscleBody": "https://www.clubpiscine.ca/DATA/TEXTEDOC/Human-body-muscles-base-tapis-treadmill.jpg"
 	},
@@ -216,7 +216,7 @@
 	  "muscleBody": "https://www.clubpiscine.ca/DATA/TEXTEDOC/Human-body-muscles-base-tapis-treadmill.jpg"
 	},
 	{
-	  "exerciseName": "Deadlift",
+	  "exerciseName": "Deadlifts",
 	  "bodyPart": "Legs",
 	  "strength": 1,
 	  "description": "Stand firmly, with your feet slightly more than shoulder wide apart. Stand directly behind the bar where it should barely touch your shin, your feet pointing a bit out. Bend down with a straight back, the knees also pointing somewhat out. Grab the bar with a shoulder wide grip, one underhand, one reverse grip. Pull the weight up. At the highest point make a slight hollow back and pull the bar back. Hold 1 or 2 seconds that position. Go down, making sure the back is not bent. Once down you can either go back again as soon as the weights touch the floor, or make a pause, depending on the weight. NEVER ARCH YOUR BACK!!",
@@ -227,7 +227,7 @@
 	  "exerciseName": "Goblet Squat",
 	  "bodyPart": "Legs",
 	  "strength": 0,
-	  "description": "Grasp dumbbell with both hands at the sides of the upper plates. Hold dumbbell in front of chest, close to torso. Place feet about shoulderwide apart, keep knees slightly bent. Squat down until thighs are parallel to floor. Keep back straight, bend and move hips backward to keep knees above feet. Return, keep knees slightly flexed. Repeat. Keep bodyweight on heels and look ahead or slightly above to keep back straight.",
+	  "description": "Grasp dumbbell with both hands at the sides of the upper plates. Hold dumbbell in front of chest, close to torso. Place feet about shoulder-wide apart, keep knees slightly bent. Squat down until thighs are parallel to floor. Keep back straight, bend and move hips backward to keep knees above feet. Return, keep knees slightly flexed. Repeat. Keep bodyweight on heels and look ahead or slightly above to keep back straight.",
 	  "exerciseExample": "https://www.burnthefatinnercircle.com/members/images/1060b.jpg?cb=20181128102308",
 	  "muscleBody": "http://pipelinept.com/wp-content/uploads/Squat-muscles-2.jpg"
 	},
@@ -347,7 +347,7 @@
 	  "exerciseName": "Seated Barbell Overhead Press",
 	  "bodyPart": "Shoulders",
 	  "strength": 1,
-	  "description": "Sit down on the seat and grip the bar overhead at a comfortable position with hands slightly wider than a shoulder-width distance apart. Keep your torso upright and core tight. Then, unrack the barbell and slowly lower it down to chin level with elbows just slightly tucked in. Inhale during this portion of the exercise. Now, press the barbell back up but don’t lock out your elbows. Exhale during this portion of the exercise. Repeat for the desired number of reps.",
+	  "description": "Sit down on the seat and grip the bar overhead at a comfortable position with hands slightly wider than a shoulder-width distance apart. Keep your torso upright and core tight. Then, un-rack the barbell and slowly lower it down to chin level with elbows just slightly tucked in. Inhale during this portion of the exercise. Now, press the barbell back up but don’t lock out your elbows. Exhale during this portion of the exercise. Repeat for the desired number of reps.",
 	  "exerciseExample": "https://4.bp.blogspot.com/-R6MBmhuw2F4/U20nDmt-4VI/AAAAAAAAAFs/xdT6TetmWS8/s1600/Seated-military-press.png",
 	  "muscleBody": "https://1.bp.blogspot.com/_I89TsU7ThAs/SI9J4D8g8tI/AAAAAAAAAj8/AD6wi0cvhrI/s320/dumbell-press.jpg"
 	},
@@ -360,7 +360,7 @@
 	  "muscleBody": "https://1.bp.blogspot.com/_I89TsU7ThAs/SI9J4D8g8tI/AAAAAAAAAj8/AD6wi0cvhrI/s320/dumbell-press.jpg"
 	},
 	{
-	  "exerciseName": "Cable Overhead Tricep Raise",
+	  "exerciseName": "Cable Overhead Triceps Raise",
 	  "bodyPart": "Arms",
 	  "strength": 0,
 	  "description": "Place both hands on the rope with a neutral grip (palms facing inwards). Bend at both the hips and knees and press your glutes into the pole. Lean forward slightly and extend your elbows to bring the rope in front of your face. This is your starting position.",
@@ -371,12 +371,12 @@
 	  "exerciseName": "Cable Pull Downs",
 	  "bodyPart": "Arms",
 	  "strength": 0,
-	  "description": "Start off standing in front of a cable machine, attaching a rope to the high pulley and grabbing the attachment with an overhand (palms down) grip. Keeping your abs drawn in, back straight and elbows in at your sides, push the rope down towards your thighs. As you push down towards your thighs, split the rope apart at the bottom and isolate the tricep muscle.",
+	  "description": "Start off standing in front of a cable machine, attaching a rope to the high pulley and grabbing the attachment with an overhand (palms down) grip. Keeping your abs drawn in, back straight and elbows in at your sides, push the rope down towards your thighs. As you push down towards your thighs, split the rope apart at the bottom and isolate the triceps muscle.",
 	  "exerciseExample": "https://lh6.googleusercontent.com/qw9wH_KYmyWM4cOhVgRfeGppJet7ijCvvIuRgQv5sxN4QQSg2w5sbbvAED2DIc6GJj0KxOh_4nuszZ88uFw_5Ei5gdh-qjaXCXc0ME1_MlztTL_LJWV95RRm34ques1rNT1WcZ0D",
 	  "muscleBody": "https://barbend.com/wp-content/uploads/2019/04/Tricep-Muscle-Anatomy-1024x661.jpg"
 	},
 	{
-	  "exerciseName": "Overhead Tricep Raise",
+	  "exerciseName": "Overhead Triceps Raise",
 	  "bodyPart": "Arms",
 	  "strength": 0,
 	  "description": "Stand with your feet staggered while holding a pair of dumbbells directly overhead, with your palms facing each other and the weights touching. Without moving your upper arms, lower the weights behind your head. Keep the dumbbells pressed together the whole time. Press the weights back up to the starting position until your arms are fully extended, stopping short of locking them out.",
@@ -392,7 +392,7 @@
 	  "muscleBody": "https://barbend.com/wp-content/uploads/2019/04/Tricep-Muscle-Anatomy-1024x661.jpg"
 	},
 	{
-	  "exerciseName": "Straight Bar Pulldowns",
+	  "exerciseName": "Straight Bar Pulldown",
 	  "bodyPart": "Arms",
 	  "strength": 0,
 	  "description": "Set the cable machine up with the bar at head height. Grab the bar and stand upright with your back straight and your elbows tucked in to your sides. Stand with your feet hip-width apart, or place one in front of the other if it helps you balance. Pull the cable down until the bar touches your thighs and pause to squeeze your triceps at the bottom of the move. Then slowly raise the bar back to the starting position.",
