@@ -170,8 +170,8 @@
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Push) Day 2",
-    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. These exercises are",
+    "workoutName": "Push/Pull/Legs (Push) Day 1",
+    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. These exercises are meant for the first day of the workout split. It will primarily focus on push exercises that help with strength. Pull covers the back and bicep muscle areas",
     "exerciseInfo": [
       {
         "exerciseName": "Deadlifts",
@@ -278,4 +278,3 @@
     ]
   }
 ]
-
