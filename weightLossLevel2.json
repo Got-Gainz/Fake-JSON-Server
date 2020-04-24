@@ -1,0 +1,178 @@
+[
+  {
+    "workoutName": "Cardio Day 1 - Advanced",
+    "description": "Cardio workouts are one of the best programs for weight loss — and for good reason. It’s convenient and an easy way for beginners to start exercising without feeling overwhelmed or needing to purchase equipment. 1 Rep = 1 Min",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Walking",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Jogging",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Sprints",
+        "reps": 10,
+        "sets": 2
+      },
+      {
+        "exerciseName": "Cool-down",
+        "reps": 10,
+        "sets": 1
+      }
+    ]
+  },
+  {
+    "workoutName": "Endurance Day 2 - Advanced",
+    "description": "This workout is primarily focused on endurance. These workouts will require some gym machines to help build your endurance and should be simple enough for beginners to start exercising. 1 Rep = 1 Min (if applicable)",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Running",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Jump-Rope",
+        "reps": 20,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Cycling",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Rowing",
+        "reps": 30,
+        "sets": 1
+      }
+    ]
+  },
+  {
+    "workoutName": "Endurance Day 3 - Advanced",
+    "description": "This workout is primarily focused on endurance. These workouts will require some gym machines to help build your endurance and should be simple enough for beginners to start exercising. 1 Rep = 1 Min (if applicable)",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Elliptical",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "StairMaster",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Battle Ropes",
+        "reps": 5,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Standing Lunges",
+        "reps": 15,
+        "sets": 5
+      }
+    ]
+  },
+  {
+    "workoutName": "Mat-Based Day 4 - Advanced",
+    "description": "These workouts are created for one area. So go grab a yoga mat, some equipment, and find a wide open area to get started. Unlike the others, this will be mainly set and rep based, not time.",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Plank Jack",
+        "reps": 12,
+        "sets": 6
+      },
+      {
+        "exerciseName": "Mini-Band Frog Jumps",
+        "reps": 12,
+        "sets": 8
+      },
+      {
+        "exerciseName": "Lateral Shuffle Taps",
+        "reps": 12,
+        "sets": 6
+      },
+      {
+        "exerciseName": "Bench Runners",
+        "reps": 12,
+        "sets": 6
+      },
+      {
+        "exerciseName": "Fast-Feet Drop",
+        "reps": 25,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Mountain Climbers Pushup",
+        "reps": 25,
+        "sets": 8
+      }
+    ]
+  },
+  {
+    "workoutName": "Cardio Day 5 - Advanced",
+    "description": "Cardio workouts are one of the best programs for weight loss — and for good reason. It’s convenient and an easy way for beginners to start exercising without feeling overwhelmed or needing to purchase equipment. 1 Rep = 1 Min",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Walking",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Jogging",
+        "reps": 30,
+        "sets": 1
+      },
+      {
+        "exerciseName": "Sprints",
+        "reps": 10,
+        "sets": 2
+      },
+      {
+        "exerciseName": "Cool-down",
+        "reps": 10,
+        "sets": 1
+      }
+    ]
+  },
+  {
+    "workoutName": "Mat-Based Day 6 - Advanced",
+    "description": "These workouts are created for one area. So go grab a yoga mat, some equipment, and find a wide open area to get started. Unlike the others, this will be mainly set and rep based, not time.",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Dumbbell Thrusters",
+        "reps": 12,
+        "sets": 8
+      },
+      {
+        "exerciseName": "Broad Jump",
+        "reps": 12,
+        "sets": 8
+      },
+      {
+        "exerciseName": "Sit-Ups",
+        "reps": 25,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Alternating Lunge",
+        "reps": 25,
+        "sets": 5
+      },
+      {
+        "exerciseName": "High Knees",
+        "reps": 25,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Jumping-Jacks",
+        "reps": 25,
+        "sets": 5
+      }
+    ]
+  }
+]
