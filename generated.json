@@ -136,7 +136,7 @@
   {
     "workoutName": "Arms",
     "description": "Time to prepare for the gun show! This arm workout is meant to turn your arms into cannons. The key thing to focus on this workout is the mind muscle connection between the arms. Additionally, you do not have to lift heavy to get your arms bigger. What will grow your arms is more volume. More volume means more reps so more blood gets pumped to your arms. That being said, pick a weight in which you feel you can still preform 2 to 3 reps more than the goal number of reps. Rest times between each exercise should be 45 to 85 seconds.",
-    "exerciseInfo": [
+    "exrciseInfo": [
       {
         "exerciseName": "Barbell Curls",
         "reps": 10,
@@ -165,6 +165,42 @@
       {
         "exerciseName": "Cable Pull Downs",
         "reps": 12,
+        "sets": 3
+      }
+    ]
+  },
+  {
+    "workoutName": "Push/Pull/Legs (Push) Day 2",
+    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. These exercises
+    "exerciseInfo": [
+      {
+        "exerciseName": "Deadlifts",
+        "reps": 5,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Bent-Over Row",
+        "reps": 12,
+        "sets": 3
+      },
+      {
+        "exerciseName": "Cable Face Pulls",
+        "reps": 12,
+        "sets": 3
+      },
+      {
+        "exerciseName": "Single Arm Dumbbell Rows",
+        "reps": 10,
+        "sets": 3
+      },
+      {
+        "exerciseName": "Pull-Ups",
+        "reps": 8,
+        "sets": 3
+      },
+      {
+        "exerciseName": "Barbell Curls",
+        "reps": 10,
         "sets": 3
       }
     ]
@@ -206,80 +242,8 @@
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Pull) Day 1",
-    "description": "This workout is meant for beginners wanting to build strength. It focuses on heavy compount movements with low rep numbers and low sets. Because of the intensity of this workout, recommended rest times are from 60 to 90 seconds between each set.",
-    "exerciseInfo": [
-      {
-        "exerciseName": "Dumbell Press",
-        "reps": 5,
-        "sets": 4
-      },
-      {
-        "exerciseName": "Barbell Bench Press",
-        "reps": 8,
-        "sets": 4
-      },
-      {
-        "exerciseName": "Barbell Overhead Press",
-        "reps": 10,
-        "sets": 3
-      },
-      {
-        "exerciseName": "Incline Dumbell Press",
-        "reps": 8,
-        "sets": 4
-      },
-      {
-        "exerciseName": "Dips",
-        "reps": 12,
-        "sets": 3
-      },
-      {
-        "exerciseName": "Standing Lunges",
-        "reps": 12,
-        "sets": 3
-      }
-    ]
-  },
-  {
-    "workoutName": "Push/Pull/Legs (Pull) Day 2",
-    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. Push exercises are exercises that involve some sort of push the weight away from your boy. Those exercises usually pertain to chest, legs, shoulders, and tricep exercises.",
-    "exerciseInfo": [
-      {
-        "exerciseName": "Deadlifts",
-        "reps": 5,
-        "sets": 5
-      },
-      {
-        "exerciseName": "Bent-Over Row",
-        "reps": 12,
-        "sets": 3
-      },
-      {
-        "exerciseName": "Cable Face Pulls",
-        "reps": 12,
-        "sets": 3
-      },
-      {
-        "exerciseName": "Single Arm Dumbbell Rows",
-        "reps": 10,
-        "sets": 3
-      },
-      {
-        "exerciseName": "Pull-Ups",
-        "reps": 8,
-        "sets": 3
-      },
-      {
-        "exerciseName": "Barbell Curls",
-        "reps": 10,
-        "sets": 3
-      }
-    ]
-  },
-  {
     "workoutName": "Advanced Strength",
-    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. Push exercises are exercises that involve some sort of push the weight away from your boy. Those exercises usually pertain to chest, legs, shoulders, and tricep exercises.",
+    "description": "This workout is meant for advanced users wanting to build strength. This workout focuses on heavy compound movements. The sets and rep ranges assigned to each exercise is to be lifted at 85% to 95% of your one rep max of that exercise. These are the working sets of each exercise. It is up to you to decide how much warm up sets to do before you hit your working sets. Rest times between each set should be 1-2 minutes",
     "exerciseInfo": [
       {
         "exerciseName": "Deadlifts",
