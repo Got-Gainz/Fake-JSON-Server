@@ -170,8 +170,8 @@
     ]
   },
   {
-    "workoutName": "Beginner Strength",
-    "description": "This workout is meant for beginners wanting to build strength. It focuses on heavy compount movements with low rep numbers and low sets. Because of the intensity of this workout, recommended rest times are from 60 to 90 seconds between each set.",
+    "workoutName": "Push/Pull/Legs (Pull) Day 2",
+    "description": "This workout split is a six day workout that focuses on pull, push, or legs depnding on the day. Push exercises are exercises that involve some sort of push the weight away from your boy. Those exercises usually pertain to chest, legs, shoulders, and tricep exercises.",
     "exerciseInfo": [
       {
         "exerciseName": "Deadlifts",
@@ -179,31 +179,61 @@
         "sets": 5
       },
       {
-        "exerciseName": "Squats",
-        "reps": 5,
-        "sets": 5
+        "exerciseName": "Bent-Over Row",
+        "reps": 12,
+        "sets": 3
       },
       {
-        "exerciseName": "Standing Lunges",
-        "reps": 3,
-        "sets": 10
+        "exerciseName": "Cable Face Pulls",
+        "reps": 12,
+        "sets": 3
       },
       {
-        "exerciseName": "Barbell Bench Press",
-        "reps": 5,
-        "sets": 5
+        "exerciseName": "Single Arm Dumbbell Rows",
+        "reps": 10,
+        "sets": 3
       },
       {
-        "exerciseName": "Bent Over Rows",
-        "reps": 5,
-        "sets": 5
-      },
-      {
-        "exerciseName": "Seated Dumbell OverHead Press",
+        "exerciseName": "Pull-Ups",
         "reps": 8,
-        "sets": 4
+        "sets": 3
+      },
+      {
+        "exerciseName": "Barbell Curls",
+        "reps": 10,
+        "sets": 3
       }
     ]
+  },
+  {
+    "exerciseName": "Dumbell Press",
+    "reps": 5,
+    "sets": 4
+  },
+  {
+    "exerciseName": "Barbell Bench Press",
+    "reps": 8,
+    "sets": 4
+  },
+  {
+    "exerciseName": "Barbell Overhead Press",
+    "reps": 10,
+    "sets": 3
+  },
+  {
+    "exerciseName": "Incline Dumbell Press",
+    "reps": 8,
+    "sets": 4
+  },
+  {
+    "exerciseName": "Dips",
+    "reps": 12,
+    "sets": 3
+  },
+  {
+    "exerciseName": "Standing Lunges",
+    "reps": 12,
+    "sets": 3
   },
   {
     "workoutName": "Advanced Strength",
