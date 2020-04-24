@@ -1,0 +1,218 @@
+[
+    {
+      "workoutName": "Push/Pull/Legs (Push) Day 1",
+      "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the first day of the workout split. It will primarily focus on push exercises that help with strength. Pull covers the back and bicep muscle areas",
+      "exerciseInfo": [
+        {
+          "exerciseName": "Deadlifts",
+          "reps": 5,
+          "sets": 5
+        },
+        {
+          "exerciseName": "Bent-Over Row",
+          "reps": 12,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Cable Face Pulls",
+          "reps": 12,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Single Arm Dumbbell Rows",
+          "reps": 10,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Pull-Ups",
+          "reps": 8,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Barbell Curls",
+          "reps": 10,
+          "sets": 3
+        }
+      ]
+    },
+    {
+      "workoutName": "Push/Pull/Legs (Push) Day 2",
+      "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the second day of the workout split. It will primarily focus on pull exercises that help with strength. Pull covers the chest, shoulder, and triceps muscle areas. A majority of the exercises will be heavy compound movements. Rest times between sets should be from 60-90 seconds",
+      "exerciseInfo": [
+        {
+          "exerciseName": "Barbell Bench Press",
+          "reps": 8,
+          "sets": 5
+        },
+        {
+          "exerciseName": "Incline Dumbbell Rows",
+          "reps": 12,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Standing Overhead Press",
+          "reps": 8,
+          "sets": 4
+        },
+        {
+          "exerciseName": "Cable Cross Overs",
+          "reps": 10,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Lateral Raises",
+          "reps": 12,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Cable pull-downs",
+          "reps": 10,
+          "sets": 3
+        }
+      ]
+    },
+    {
+      "workoutName": "Push/Pull/Legs (Legs (QUAD FOCUS)) Day 3",
+      "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the second day of the workout split. The workout will primarily focus on exercises that target the muscles of the legs. Since legs encompass half of the human body, a lot of muscles will be worked. During the first leg day, we also place extra emphasis on exercises whose primary target is the quadsTake ample rest time between sets to allow your muscles to breathe before jumping into the next set. Rest times between each set should be 2 to 3 minutes",
+      "exerciseInfo": [
+        {
+          "exerciseName": "Squats",
+          "reps": 5,
+          "sets": 6
+        },
+        {
+          "exerciseName": "Leg Press",
+          "reps": 8,
+          "sets": 4
+        },
+        {
+          "exerciseName": "Romanian Deadlifts",
+          "reps": 8,
+          "sets": 4
+        },
+        {
+          "exerciseName": "Standing Lunges",
+          "reps": 10,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Leg Extensions",
+          "reps": 12,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Seated Calf Extensions",
+          "reps": 15,
+          "sets": 3
+        }
+      ]
+    },
+    {
+      "workoutName": "Push/Pull/Legs (Pull) Day 4",
+      "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. On Day four, we return back to the pull portion of the exercises. The difference as that these exercise will focus on volume rather than strength. That means more reps per exercise to pump more blood to the muscles. This will help with muscle definition. Rest time between each set should be around 45 - 75 seconds",
+      "exerciseInfo": [
+        {
+          "exerciseName": "Lat Pulldown",
+          "reps": 12,
+          "sets": 4
+        },
+        {
+          "exerciseName": "Machine Cable Rows",
+          "reps": 10,
+          "sets": 4
+        },
+        {
+          "exerciseName": "Rack Pulls",
+          "reps": 10,
+          "sets": 4
+        },
+        {
+          "exerciseName": "Incline Bench Rows",
+          "reps": 10,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Hammer Curls",
+          "reps": 12,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Seated Concentration Curls",
+          "reps": 10,
+          "sets": 3
+        }
+      ]
+    },
+    {
+      "workoutName": "Push/Pull/Legs (Push) Day 5",
+      "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. On day five, we return back to the push portion of the exercises. The difference as that these exercise will focus on volume rather than strength. That means more reps per exercise to pump more blood to the muscles. This will help with muscle definition. Rest time between each set should be around 45 - 75 seconds",
+      "exerciseInfo": [
+        {
+          "exerciseName": "Seated Dumbbell Overhead Press",
+          "reps": 10,
+          "sets": 4
+        },
+        {
+          "exerciseName": "Incline Bench Press",
+          "reps": 10,
+          "sets": 4
+        },
+        {
+          "exerciseName": "Decline Bench Press",
+          "reps": 10,
+          "sets": 4
+        },
+        {
+          "exerciseName": "Cable Face Pulls",
+          "reps": 10,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Arnold Press",
+          "reps": 12,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Overhead Triceps raise",
+          "reps": 10,
+          "sets": 3
+        }
+      ]
+    },
+    {
+      "workoutName": "Push/Pull/Legs (Legs (Hamstring Focus) Day 6",
+      "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the second day of the workout split. The workout will primarily focus on exercises that target the muscles of the legs. Since legs encompass half of the human body, a lot of muscles will be worked. During the first leg day, we also place extra emphasis on exercises whose primary target is the hamstrings. Take ample rest time between sets to allow your muscles to breathe before jumping into the next set. Rest times between each set should be 2 to 3 minutes",
+      "exerciseInfo": [
+        {
+          "exerciseName": "Deadlifts",
+          "reps": 5,
+          "sets": 6
+        },
+        {
+          "exerciseName": "Goblet Squats",
+          "reps": 10,
+          "sets": 4
+        },
+        {
+          "exerciseName": "Machine Leg Curls",
+          "reps": 10,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Good Mornings",
+          "reps": 10,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Hip Thrust",
+          "reps": 10,
+          "sets": 3
+        },
+        {
+          "exerciseName": "Standing Calf Extensions",
+          "reps": 15,
+          "sets": 3
+        }
+      ]
+    }
+  ]
