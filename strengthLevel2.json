@@ -1,6 +1,6 @@
 [
   {
-    "workoutName": "Push/Pull/Legs (Push) Day 1",
+    "workoutName": "Beginner Push/Pull/Legs (Push) Day 1",
     "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the first day of the workout split. It will primarily focus on push exercises that help with strength. Pull covers the back and bicep muscle areas",
     "exerciseInfo": [
       {
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Push) Day 2",
+    "workoutName": "Beginner Push/Pull/Legs (Push) Day 2",
     "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the second day of the workout split. It will primarily focus on pull exercises that help with strength. Pull covers the chest, shoulder, and triceps muscle areas. A majority of the exercises will be heavy compound movements. Rest times between sets should be from 60-90 seconds",
     "exerciseInfo": [
       {
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Legs (QUAD FOCUS)) Day 3",
+    "workoutName": "Beginner Push/Pull/Legs (Legs (QUAD FOCUS)) Day 3",
     "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the second day of the workout split. The workout will primarily focus on exercises that target the muscles of the legs. Since legs encompass half of the human body, a lot of muscles will be worked. During the first leg day, we also place extra emphasis on exercises whose primary target is the quadsTake ample rest time between sets to allow your muscles to breathe before jumping into the next set. Rest times between each set should be 2 to 3 minutes",
     "exerciseInfo": [
       {
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Pull) Day 4",
+    "workoutName": "Beginner Push/Pull/Legs (Pull) Day 4",
     "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. On Day four, we return back to the pull portion of the exercises. The difference as that these exercise will focus on volume rather than strength. That means more reps per exercise to pump more blood to the muscles. This will help with muscle definition. Rest time between each set should be around 45 - 75 seconds",
     "exerciseInfo": [
       {
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Push) Day 5",
+    "workoutName": "Beginner Push/Pull/Legs (Push) Day 5",
     "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. On day five, we return back to the push portion of the exercises. The difference as that these exercise will focus on volume rather than strength. That means more reps per exercise to pump more blood to the muscles. This will help with muscle definition. Rest time between each set should be around 45 - 75 seconds",
     "exerciseInfo": [
       {
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "workoutName": "Push/Pull/Legs (Legs (Hamstring Focus) Day 6",
+    "workoutName": "Beginner Push/Pull/Legs (Legs (Hamstring Focus) Day 6",
     "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. These exercises are meant for the second day of the workout split. The workout will primarily focus on exercises that target the muscles of the legs. Since legs encompass half of the human body, a lot of muscles will be worked. During the first leg day, we also place extra emphasis on exercises whose primary target is the hamstrings. Take ample rest time between sets to allow your muscles to breathe before jumping into the next set. Rest times between each set should be 2 to 3 minutes",
     "exerciseInfo": [
       {
