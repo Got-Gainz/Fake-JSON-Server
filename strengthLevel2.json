@@ -214,5 +214,175 @@
         "sets": 5
       }
     ]
+  },
+  {
+    "workoutName": "Chest - Advanced",
+    "description": "This is a chest focused workout to build those pecs. The upper, lower, and middle chest will be targeted through the duration of this workout. An important mind muscle connection is need in order for you to feel the pump. Rest times between each set should be around 60-90 seconds",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Barbell Bench Press",
+        "reps": 8,
+        "sets": 6
+      },
+      {
+        "exerciseName": "Incline Dumbbell Press",
+        "reps": 8,
+        "sets": 6
+      },
+      {
+        "exerciseName": "Dips",
+        "reps": 12,
+        "sets": 4
+      },
+      {
+        "exerciseName": "Cable Cross-over",
+        "reps": 12,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Push-ups",
+        "reps": 25,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "workoutName": "Back - Advanced",
+    "description": "This is a back focused workout to build your back like a shield. When performing each exercise, focus on the mind muscle connection. To help that, focus on the negative portion of the exercise. That is when you are returning to the starting position after each rep. Do this for all exercises except deadlifts. Note that the deadlifts are include, Although this exercise is considered a leg exercises, one of the other areas of muscles worked is the lower back. The lower back is the abs of the posterior side of the human body.",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Deadlifts",
+        "reps": 5,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Bent-Over Rows",
+        "reps": 10,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Machine Cable Rows",
+        "reps": 12,
+        "sets": 4
+      },
+      {
+        "exerciseName": "Single Arm Dumbbell Rows",
+        "reps": 12,
+        "sets": 4
+      },
+      {
+        "exerciseName": "Straight Arm Pulldown",
+        "reps": 12,
+        "sets": 4
+      },
+      {
+        "exerciseName": "Pull-Ups",
+        "reps": 10,
+        "sets": 5
+      }
+    ]
+  },
+  {
+    "workoutName": "Legs - Advanced",
+    "description": "You cannot have a strong building without a strong foundation. Keeping that in mind, here is a workout to build the base of the body, legs. This leg workout is intense. For the majority of exercises in this workout, it is important to keep your core tight and chest up to So it is advisable to take 2 to 3 minutes between each set of each exercise. ",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Squats",
+        "reps": 8,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Leg Extensions",
+        "reps": 10,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Standing Lunges",
+        "reps": 10,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Romanian Deadlifts",
+        "reps": 10,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Machine Leg Curls",
+        "reps": 10,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Standing Calf Extensions",
+        "reps": 20,
+        "sets": 5
+      }
+    ]
+  },
+  {
+    "workoutName": "Shoulders - Advanced",
+    "description": "Its time to build those 3-D deltoids. This workout will blast your shoulders to the point where you cannot even lift your arms up. The main thing to focus on for this shoulder workout is picking a manageable weight. This is because it is very easy to injure your shoulders when you choose the incorrect weight. To remedy this, pick a weight in which you feel like you can do 1 or 2 more reps after you have completed the amount of reps you are supposed to complete. That way, you are still pushing your body, but you are able to reduce the amount of strain on your shoulder joints.",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Barbell Overhead Press",
+        "reps": 8,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Cable Face Pulls",
+        "reps": 12,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Front raise",
+        "reps": 12,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Lateral Raises",
+        "reps": 12,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Bent Over Rear Deltoid Raises",
+        "reps": 12,
+        "sets": 5
+      }
+    ]
+  },
+  {
+    "workoutName": "Arms - Advanced",
+    "description": "Time to prepare for the gun show! This arm workout is meant to turn your arms into cannons. The key thing to focus on this workout is the mind muscle connection between the arms. Additionally, you do not have to lift heavy to get your arms bigger. What will grow your arms is more volume. More volume means more reps so more blood gets pumped to your arms. That being said, pick a weight in which you feel you can still preform 2 to 3 reps more than the goal number of reps. Rest times between each exercise should be 45 to 85 seconds.",
+    "exerciseInfo": [
+      {
+        "exerciseName": "Barbell Curls",
+        "reps": 12,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Skull Crushers",
+        "reps": 12,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Dumbbell Curls",
+        "reps": 12,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Hammer Curls",
+        "reps": 12,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Dips",
+        "reps": 12,
+        "sets": 5
+      },
+      {
+        "exerciseName": "Cable Pull Downs",
+        "reps": 12,
+        "sets": 5
+      }
+    ]
   }
 ]
