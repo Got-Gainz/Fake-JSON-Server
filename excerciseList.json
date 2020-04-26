@@ -20,7 +20,7 @@
     "bodyPart": "Arms",
     "strength": 0,
     "description": "Stand with your feet shoulder-width apart and a slight bend in your knees. Hold a pair of dumbbells in your hands with your palms facing towards your body – this is the main difference from the standard curl, which you start with your palms facing forwards. Keeping your elbows close to your body, slowly curl the dumbbell up to your shoulders. Pause for a second at the top of the lift, squeeze your biceps, then lower the weights under control.",
-    "exerciseExample": "https://lh3.googleusercontent.com/proxy/qkuMa5Bjw9QFz4NjV9flJn0O34hrsjuHuRyS4R8q9AhBtGAN0WKvdwRoGHRtsw8n6ru_A9-lIHu-qdLju9Xn5w0BLJk4lWaNppAbZGZqErG4MI7rxGQkhstQADmnwMC0CRr5sg",
+    "exerciseExample": "http://monthlymale.com/wp-content/uploads/2016/03/Hammer_Curls.png",
     "muscleBody": "https://squatwolf.com/wp-content/uploads/2018/09/Reverse-Curls-800x800.png"
   },
   {
@@ -28,7 +28,7 @@
     "bodyPart": "Arms",
     "strength": 0,
     "description": "Grab the bar with a shoulder width grip with your hands on top of the bar (pronated grip), not underneath as they would be with a regular curl. If you are using an EZ curl bar grip it on the downward-sloping parts of the bar, found just outside the middle straight section.",
-    "exerciseExample": "https://lh3.googleusercontent.com/proxy/8Wqnm-MQVqGCuV4DNDjbXVYVlkuajGDvHvVbZpbmJEs1sXHwd4X1KYUu4JNBeuGakNm6tQ20iL_W45PqkaKc6wMkUzacXsg2WL3RTVItRoGy75dXVxw66fea5thmZxOQWpU",
+    "exerciseExample": "http://www.naruwaa.com/wp-content/uploads/2015/08/REVERSE-BARBELL-CURL.jpg",
     "muscleBody": "https://squatwolf.com/wp-content/uploads/2018/09/Reverse-Curls-800x800.png"
   },
   {
@@ -325,7 +325,7 @@
     "strength": 1,
     "description": "Stand upright with dumbbells at your side, palms facing your body. Lunge forward as far as you can with your right leg, bending your trailing knee so it almost brushes the floor. Use the heel of your right foot to push your upper body back to the starting position. Repeat with the opposite leg.",
     "exerciseExample": "http://workoutlabs.com/wp-content/uploads/watermarked/Dumbbell_Lunges.png",
-    "muscleBody": "https://www.burnthefatinnercircle.com/members/images/1062.jpg"
+    "muscleBody": "https://www.performancehealth.com/media/wysiwyg/blog/articles/Hamstring-quadriceps_3.PNG"
   },
   {
     "exerciseName": "Walking Lunges",
@@ -333,7 +333,7 @@
     "strength": 1,
     "description": "Take two dumbbells in your hands, stand straight, feet about shoulder wide. Take one long step so that the front knee is approximately forming a right angle. The back leg is streched, the knee is low but doesn't touch the ground. Complete the step by standing up and repeat the movement with the other leg.",
     "exerciseExample": "http://workoutlabs.com/wp-content/uploads/watermarked/Dumbbell_Lunges.png",
-    "muscleBody": "https://www.burnthefatinnercircle.com/members/images/1062.jpg"
+    "muscleBody": "https://www.performancehealth.com/media/wysiwyg/blog/articles/Hamstring-quadriceps_3.PNG"
   },
   {
     "exerciseName": "Arnold Press",
@@ -491,12 +491,6 @@
     "bodyPart": "Full Body",
     "strength": 0,
     "description": "Find a rowing machine in your gym and prepare. This first involves 4 sets of rowing starting at 20 rows per minute. As you move on to the next set, increase rows perminute by 2 or 3 strokes. After the four sets, preform the fifth one for 10 minutes at a steady rowing pace."
-  },
-  {
-    "exerciseName": "Battle Rops",
-    "bodyPart": "Full Body",
-    "strength": 0,
-    "description": "The battle ropes are great for working your core and upper body. It is also good for burning calories. An example workout is as follows: Stand tall, sideways on to where the rope ends are fixed, holding the other ends of the ropes in each hand with your hands together. Move your hands in a big circle clockwise in front of your body for 12 reps, then do 12 reps anti-clockwise. Turn around then repeat. Rest for 30 seconds and repeat three times"
   },
   {
     "exerciseName": "Battle Ropes",
