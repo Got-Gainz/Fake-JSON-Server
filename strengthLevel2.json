@@ -55,7 +55,7 @@
         "sets": 5
       },
       {
-        "exerciseName": "Cable Cross-overs",
+        "exerciseName": "Cable Cross-over",
         "reps": 10,
         "sets": 5
       },
@@ -96,12 +96,12 @@
         "sets": 5
       },
       {
-        "exerciseName": "Leg Extensions",
+        "exerciseName": "Leg Extension",
         "reps": 12,
         "sets": 5
       },
       {
-        "exerciseName": "Seated Calf Extensions",
+        "exerciseName": "Seated Calf Extension",
         "reps": 15,
         "sets": 5
       }
@@ -122,12 +122,12 @@
         "sets": 5
       },
       {
-        "exerciseName": "Rack Pulls",
+        "exerciseName": "Rack Pull",
         "reps": 15,
         "sets": 5
       },
       {
-        "exerciseName": "Incline Bench Rows",
+        "exerciseName": "Incline Dumbbell Rows",
         "reps": 15,
         "sets": 5
       },
@@ -189,7 +189,7 @@
         "sets": 6
       },
       {
-        "exerciseName": "Goblet Squats",
+        "exerciseName": "Goblet Squat",
         "reps": 10,
         "sets": 5
       },
@@ -209,7 +209,7 @@
         "sets": 5
       },
       {
-        "exerciseName": "Standing Calf Extensions",
+        "exerciseName": "Standing Calf Extension",
         "reps": 15,
         "sets": 5
       }
