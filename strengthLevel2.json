@@ -9,7 +9,7 @@
         "sets": 6
       },
       {
-        "exerciseName": "Bent-Over Row",
+        "exerciseName": "Bent-Over Rows",
         "reps": 12,
         "sets": 5
       },
@@ -50,12 +50,12 @@
         "sets": 5
       },
       {
-        "exerciseName": "Standing Overhead Press",
+        "exerciseName": "Seated Barbell Overhead Press",
         "reps": 10,
         "sets": 5
       },
       {
-        "exerciseName": "Cable Cross Overs",
+        "exerciseName": "Cable Cross-overs",
         "reps": 10,
         "sets": 5
       },
@@ -65,7 +65,7 @@
         "sets": 5
       },
       {
-        "exerciseName": "Cable pull-downs",
+        "exerciseName": "Cable Pull-downs",
         "reps": 10,
         "sets": 5
       }
@@ -112,7 +112,7 @@
     "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. On Day four, we return back to the pull portion of the exercises. The difference as that these exercise will focus on volume rather than strength. That means more reps per exercise to pump more blood to the muscles. This will help with muscle definition. Rest time between each set should be around 45 - 75 seconds",
     "exerciseInfo": [
       {
-        "exerciseName": "Lat Pulldown",
+        "exerciseName": "Wide Grip Lat Pulldown",
         "reps": 15,
         "sets": 5
       },
@@ -173,7 +173,7 @@
         "sets": 5
       },
       {
-        "exerciseName": "Overhead Triceps raise",
+        "exerciseName": "Cable Overhead Triceps raise",
         "reps": 12,
         "sets": 5
       }

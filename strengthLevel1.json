@@ -112,7 +112,7 @@
     "description": "This workout split is a six-day workout that focuses on pull, push, or legs depending on the day. On Day four, we return back to the pull portion of the exercises. The difference as that these exercise will focus on volume rather than strength. That means more reps per exercise to pump more blood to the muscles. This will help with muscle definition. Rest time between each set should be around 45 - 75 seconds",
     "exerciseInfo": [
       {
-        "exerciseName": "Lat Pulldown",
+        "exerciseName": "Wide Grip Lat Pulldown",
         "reps": 12,
         "sets": 4
       },
@@ -173,7 +173,7 @@
         "sets": 3
       },
       {
-        "exerciseName": "Overhead Triceps raise",
+        "exerciseName": "Cable Overhead Triceps raise",
         "reps": 10,
         "sets": 3
       }
