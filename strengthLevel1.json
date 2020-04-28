@@ -9,7 +9,7 @@
         "sets": 5
       },
       {
-        "exerciseName": "Bent-Over Row",
+        "exerciseName": "Bent-Over Rows",
         "reps": 12,
         "sets": 3
       },
@@ -55,7 +55,7 @@
         "sets": 4
       },
       {
-        "exerciseName": "Cable Cross-overs",
+        "exerciseName": "Cable Cross-over",
         "reps": 10,
         "sets": 3
       },
@@ -96,12 +96,12 @@
         "sets": 3
       },
       {
-        "exerciseName": "Leg Extensions",
+        "exerciseName": "Leg Extension",
         "reps": 12,
         "sets": 3
       },
       {
-        "exerciseName": "Seated Calf Extensions",
+        "exerciseName": "Seated Calf Extension",
         "reps": 15,
         "sets": 3
       }
@@ -122,12 +122,12 @@
         "sets": 4
       },
       {
-        "exerciseName": "Rack Pulls",
+        "exerciseName": "Rack Pull",
         "reps": 10,
         "sets": 4
       },
       {
-        "exerciseName": "Incline Bench Rows",
+        "exerciseName": "Incline Dumbbell Rows",
         "reps": 10,
         "sets": 3
       },
@@ -189,7 +189,7 @@
         "sets": 6
       },
       {
-        "exerciseName": "Goblet Squats",
+        "exerciseName": "Goblet Squat",
         "reps": 10,
         "sets": 4
       },
@@ -209,7 +209,7 @@
         "sets": 3
       },
       {
-        "exerciseName": "Standing Calf Extensions",
+        "exerciseName": "Standing Calf Extension",
         "reps": 15,
         "sets": 3
       }
@@ -225,7 +225,7 @@
         "sets": 4
       },
       {
-        "exerciseName": "Incline Dumbbell Press",
+        "exerciseName": "Incline Dumbbell Chest Press",
         "reps": 8,
         "sets": 4
       },
@@ -292,7 +292,7 @@
         "sets": 5
       },
       {
-        "exerciseName": "Leg Extensions",
+        "exerciseName": "Leg Extension",
         "reps": 10,
         "sets": 3
       },
@@ -312,7 +312,7 @@
         "sets": 3
       },
       {
-        "exerciseName": "Standing Calf Extensions",
+        "exerciseName": "Standing Calf Extension",
         "reps": 15,
         "sets": 5
       }
