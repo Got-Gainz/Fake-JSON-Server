@@ -225,7 +225,7 @@
         "sets": 6
       },
       {
-        "exerciseName": "Incline Dumbbell Press",
+        "exerciseName": "Incline Dumbbell Chest Press",
         "reps": 8,
         "sets": 6
       },
@@ -292,7 +292,7 @@
         "sets": 5
       },
       {
-        "exerciseName": "Leg Extensions",
+        "exerciseName": "Leg Extension",
         "reps": 10,
         "sets": 5
       },
@@ -312,7 +312,7 @@
         "sets": 5
       },
       {
-        "exerciseName": "Standing Calf Extensions",
+        "exerciseName": "Standing Calf Extension",
         "reps": 20,
         "sets": 5
       }
@@ -333,7 +333,7 @@
         "sets": 5
       },
       {
-        "exerciseName": "Front raise",
+        "exerciseName": "Front Raises",
         "reps": 12,
         "sets": 5
       },
